@@ -98,7 +98,7 @@ One of the most powerful features of this project:
 ## 🎥 Demo 
 <img width="1919" height="968" alt="Screenshot 2025-09-07 143554" src="https://github.com/user-attachments/assets/cb551185-56eb-4299-93d8-5e3c0e84ee77" />
 
-<img width="722" height="509" alt="Screenshot 2025-09-07 142803" src="https://github.com/user-attachments/assets/4446448d-12f3-49b9-a8d0-985168b4c0be" />
+<img width="1904" height="900" alt="Screenshot 2025-08-31 203159" src="https://github.com/user-attachments/assets/ff3e218a-ffd0-426e-bac1-e0b133c85f2e" />
 
 
 >  demo video here : https://www.linkedin.com/posts/alsayedabdalsamei_machinelearning-ai-datascience-activity-7369096384463011841-v6p2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH-oSQBaNGvRA1wVfFjP_tI972WYjZAIxc
