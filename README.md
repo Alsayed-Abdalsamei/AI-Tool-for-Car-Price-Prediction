@@ -95,7 +95,8 @@ One of the most powerful features of this project:
 
 ---
 
-## 🎥 Demo (Optional)
+## 🎥 Demo 
+<img width="1919" height="968" alt="Screenshot 2025-09-07 143554" src="https://github.com/user-attachments/assets/cb551185-56eb-4299-93d8-5e3c0e84ee77" />
 
 >  demo video here : https://www.linkedin.com/posts/alsayedabdalsamei_machinelearning-ai-datascience-activity-7369096384463011841-v6p2?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFH-oSQBaNGvRA1wVfFjP_tI972WYjZAIxc
 >   💻 Live App: https://lnkd.in/dsEFfm4J
